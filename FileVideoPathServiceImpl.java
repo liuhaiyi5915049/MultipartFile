@@ -3,7 +3,7 @@
 public class FileVideoPathServiceImpl implements IFileVideoPathService {
 
 /**
-     * 上传停车视频
+     * 上传视频
      * @param file
      * @param dto
      * @return
